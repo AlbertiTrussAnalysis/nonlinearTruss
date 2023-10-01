@@ -6,6 +6,8 @@ Das "Hauptanwendung" ermöglicht die lineare und nichtlineare Analyse von belieb
 
 Mit "Balken" kann ein Dreigelenktragwerk sowohl linear als auch nicht-linear berechnet werden, und zwar kraft- und verschiebungsgesteuert. Die erhaltenen Ergebnisse werden im Anschluss mit der analytischen Lösung abgeglichen.
 
+Folgende Codes benötigen es, dass die äquivalenten Koordinatendateien sich im gleichen Ordner wie die Pyhton Dateien befinden. 
+
 "Fachwerkbogen" ist ein weiterer Benchmark, bei welcher die Verschiebungsgesteuerte Rechenmethode aufwendiger ist als bei dem Dreigelenktragwerk.
 
 In "Raumfachwerk" können die beiden Berechnungsmethoden an einem dreidimensionalen Tragwerk nachvollzogen werden.
