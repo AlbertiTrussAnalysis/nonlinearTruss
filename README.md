@@ -1,4 +1,4 @@
-# Geometrische Nichtlineare Fachwerkstäbe
+# Geometrisch Nichtlineare Fachwerkstäbe
 
 Die hier bereitgestellten Codes wurden im Rahmen meiner Bachelorarbeit an der Technischen Universität München am Lehrstuhl für Statik entwickelt.
 
