@@ -10,6 +10,8 @@ Mit "Balken" kann ein Dreigelenktragwerk sowohl linear als auch nicht-linear ber
 
 In "Raumfachwerk" können die beiden Berechnungsmethoden an einem dreidimensionalen Tragwerk nachvollzogen werden.
 
+Die Gültigkeit der Ergebnisse wurden in der Arbeit nachgewiesen.
+
 ## Notwendige Python Packete
 
 Es muss 'numpy' und 'matplotlib' installiert werden.
