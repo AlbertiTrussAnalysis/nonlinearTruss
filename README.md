@@ -2,7 +2,7 @@
 
 Die hier bereitgestellten Codes wurden im Rahmen meiner Bachelorarbeit an der Technischen Universität München am Lehrstuhl für Statik entwickelt.
 
-Das "Hauptprogramm" ermöglicht die lineare und nichtlineare Analyse von beliebigen 2D-Fachwerken. Hierbei kann sowohl die Konvergenz, als auch Veränderungen in der Geometrie im Zuge der Laststeigerung betrachtet werden.
+Das "Hauptanwendung" ermöglicht die lineare und nichtlineare Analyse von beliebigen 2D-Fachwerken. Hierbei kann sowohl die Konvergenz, als auch Veränderungen in der Geometrie im Zuge der Laststeigerung betrachtet werden.
 
 Mit "Balken" kann ein Dreigelenktragwerk sowohl linear als auch nicht-linear berechnet werden, und zwar kraft- und verschiebungsgesteuert. Die erhaltenen Ergebnisse werden im Anschluss mit der analytischen Lösung abgeglichen.
 
