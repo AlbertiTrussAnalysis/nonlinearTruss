@@ -35,9 +35,7 @@ Bei Fragen zur Bachelorarbeit oder zu den veröffentlichen Codes stehe ich gerne
 
 alberti.maxhof@gmx.de
 
-```
-+49 177 7559177
-```
+
 ## Bachelorarbeit
 Unter folgendem Link kann die zugehörige Bachelorarbeit eingesehen werden.
 (folgt)
