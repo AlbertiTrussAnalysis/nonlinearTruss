@@ -36,6 +36,4 @@ Bei Fragen zur Bachelorarbeit oder zu den veröffentlichen Codes stehe ich gerne
 alberti.maxhof@gmx.de
 
 
-## Bachelorarbeit
-Unter folgendem Link kann die zugehörige Bachelorarbeit eingesehen werden.
-(folgt)
+
