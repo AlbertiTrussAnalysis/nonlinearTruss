@@ -1,18 +1,18 @@
 # Geometrisch Nichtlineare Fachwerkstäbe
 
-Die hier bereitgestellten Codes wurden im Rahmen meiner Bachelorarbeit an der Technischen Universität München am Lehrstuhl für Statik entwickelt.
+Die hier zur Verfügung gestellten Codes wurden im Rahmen meiner Bachelorarbeit an der Technischen Universität München am Lehrstuhl für Statik entwickelt.
 
-Das "Hauptanwendung" ermöglicht die lineare und nichtlineare Analyse von beliebigen 2D-Fachwerken. Hierbei kann sowohl die Konvergenz, als auch Veränderungen in der Geometrie im Zuge der Laststeigerung betrachtet werden.
+Die "Hauptanwendung" ermöglicht die lineare und nichtlineare Analyse beliebiger 2D-Fachwerke. Dabei kann sowohl die Konvergenz als auch die Veränderung der Geometrie bei Laststeigerung untersucht werden.
 
-Mit "Balken" kann ein Dreigelenktragwerk sowohl linear als auch nicht-linear berechnet werden, und zwar kraft- und verschiebungsgesteuert. Die erhaltenen Ergebnisse werden im Anschluss mit der analytischen Lösung abgeglichen.
+Mit "Balken" kann ein Dreigelenksystem sowohl linear als auch nichtlinear kraft- und weggesteuert berechnet werden. Die erhaltenen Ergebnisse werden dann mit der analytischen Lösung verglichen.
 
-Folgende Codes benötigen es, dass die äquivalenten Koordinatendateien sich im gleichen Ordner wie die Pyhton Dateien befinden. 
+Die folgenden Codes setzen voraus, dass sich die äquivalenten Koordinatendateien im gleichen Verzeichnis wie die Pyhton-Dateien befinden. 
 
-"Fachwerkbogen" ist ein weiterer Benchmark, bei welcher die Verschiebungsgesteuerte Rechenmethode aufwendiger ist als bei dem Dreigelenktragwerk.
+Der "Fachwerkbogen" ist ein weiterer Benchmark, bei dem die verschiebungsgesteuerte Berechnungsmethode komplexer ist als beim Dreigelenksystem.
 
-In "Raumfachwerk" können die beiden Berechnungsmethoden an einem dreidimensionalen Tragwerk nachvollzogen werden.
+In "Raumfachwerk" können beide Berechnungsmethoden an einem dreidimensionalen Tragwerk nachvollzogen werden.
 
-Die Gültigkeit der Ergebnisse wurden in der Arbeit nachgewiesen.
+Die Gültigkeit der Ergebnisse wurde in der Arbeit nachgewiesen.
 
 ## Notwendige Python Packete
 
